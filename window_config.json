@@ -1,0 +1,28 @@
+{
+  "hwnd_2229856": {
+    "window_title": "[2] www.mu-exilio.com",
+    "character_name": "Tyferiuska",
+    "return_enabled": true,
+    "target_coords": [
+      90,
+      132
+    ],
+    "target_map": "Exile",
+    "auto_buy_potions_enabled": true,
+    "buy_mana_enabled": true,
+    "buy_mana_clicks": 10
+  },
+  "hwnd_115083140": {
+    "window_title": "[1] www.mu-exilio.com",
+    "character_name": "Tyferiusk",
+    "return_enabled": true,
+    "target_coords": [
+      163,
+      61
+    ],
+    "target_map": "Exile",
+    "auto_buy_potions_enabled": true,
+    "buy_mana_enabled": true,
+    "buy_mana_clicks": 10
+  }
+}

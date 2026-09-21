@@ -1,0 +1,17 @@
+# Ultimate Mu Helper — dependencias Python (Windows)
+# Instalación: pip install -r requirements.txt
+#
+# Tesseract OCR es un programa aparte (no pip): https://github.com/UB-Mannheim/tesseract/wiki
+
+PySide6>=6.5.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyautogui>=0.9.54
+pywin32>=306
+mss>=9.0.0
+pynput>=1.7.6
+WMI>=1.5.1
+cryptography>=41.0.0
+ntplib>=0.4.0
+requests>=2.28.0
+easyocr>=1.7.1
